@@ -1,5 +1,11 @@
+_site/
+_tmp/
+.DS_Store
 node_modules/
-dist/
-site/data/webpack.json
-/npm-debug.log
-yarn-error.log
+.vscode/
+*git/
+package-lock.json
+.env
+
+# Local Netlify folder
+.netlify
